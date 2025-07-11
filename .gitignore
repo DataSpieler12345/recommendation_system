@@ -1,0 +1,12 @@
+# Ignorar la carpeta de datos
+data/
+
+# Ignorar el virtualenv
+venv/
+
+# Ignorar checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar cachés de Python
+__pycache__/
+*.py[cod]
